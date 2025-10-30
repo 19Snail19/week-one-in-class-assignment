@@ -1,0 +1,14 @@
+C:\Users\jessi\Projects\Sample_Console_App\bin\Debug\net9.0\Sample_Console_App.exe
+C:\Users\jessi\Projects\Sample_Console_App\bin\Debug\net9.0\Sample_Console_App.deps.json
+C:\Users\jessi\Projects\Sample_Console_App\bin\Debug\net9.0\Sample_Console_App.runtimeconfig.json
+C:\Users\jessi\Projects\Sample_Console_App\bin\Debug\net9.0\Sample_Console_App.dll
+C:\Users\jessi\Projects\Sample_Console_App\bin\Debug\net9.0\Sample_Console_App.pdb
+C:\Users\jessi\Projects\Sample_Console_App\obj\Debug\net9.0\Sample_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Projects\Sample_Console_App\obj\Debug\net9.0\Sample_Console_App.AssemblyInfoInputs.cache
+C:\Users\jessi\Projects\Sample_Console_App\obj\Debug\net9.0\Sample_Console_App.AssemblyInfo.cs
+C:\Users\jessi\Projects\Sample_Console_App\obj\Debug\net9.0\Sample_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Projects\Sample_Console_App\obj\Debug\net9.0\Sample_Console_App.dll
+C:\Users\jessi\Projects\Sample_Console_App\obj\Debug\net9.0\refint\Sample_Console_App.dll
+C:\Users\jessi\Projects\Sample_Console_App\obj\Debug\net9.0\Sample_Console_App.pdb
+C:\Users\jessi\Projects\Sample_Console_App\obj\Debug\net9.0\Sample_Console_App.genruntimeconfig.cache
+C:\Users\jessi\Projects\Sample_Console_App\obj\Debug\net9.0\ref\Sample_Console_App.dll
